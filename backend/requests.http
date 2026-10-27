@@ -1,5 +1,5 @@
 @baseUrl = http://localhost:3000
-# To test the cloud API, change baseUrl to https://YOUR-API-PROJECT.vercel.app
+# To test the cloud API, change baseUrl to https://cloud-issue-tracker-api-five.vercel.app/
 
 ### T00 Health check (no database needed)
 GET {{baseUrl}}/api/health
